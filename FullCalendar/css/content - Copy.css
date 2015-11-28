@@ -1,0 +1,807 @@
+﻿
+./*lmdg {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_bg.png") no-repeat scroll 0 -382px;
+    clear: both;
+    color: #565656;
+    font-size: 13px;
+    height: 33px;
+    line-height: 33px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 0 0 25px;
+    text-align: left;
+    width: 940px;
+}
+.lmdg a {
+    color: #035b9e;
+    font-size: 13px;
+}
+.listtop {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_bg.png") no-repeat scroll 0 -281px;
+    clear: both;
+    height: 36px;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 987px;
+}
+.listtop span {
+    display: inline;
+    float: left;
+    margin-left: 40px;
+    overflow: hidden;
+    width: 530px;
+}
+.listtop span ul {
+    margin: 0;
+}
+.listtop span li {
+    float: left;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 36px;
+    overflow: hidden;
+    text-align: center;
+    width: 106px;
+}
+.bg03, .bg03:link, .bg03:visited, .bg03:hover {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_lmtblue.gif") no-repeat scroll center top;
+    color: #fff;
+    display: block;
+    height: 36px;
+    text-align: center;
+    text-decoration: none;
+    width: 106px;
+}
+.bg04, .bg04:link, .bg04:visited, .bg04:hover {
+    color: #035b9e;
+    display: block;
+    height: 36px;
+    text-decoration: none;
+    width: 106px;
+}
+.listtop label {
+    color: #035b9e;
+    float: right;
+    font-family: 微软雅黑;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 36px;
+    margin-right: 15px;
+    overflow: hidden;
+    width: 230px;
+}
+.org1, .org1:link, .org1:visited {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_icon.gif") no-repeat scroll left center;
+    color: #fa4a00;
+    display: block;
+    float: left;
+    height: 36px;
+    overflow: hidden;
+    text-align: right;
+    width: 100px;
+}
+.org1:hover {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_icon.gif") no-repeat scroll left center;
+    color: #fa4a00;
+    display: block;
+    float: left;
+    height: 36px;
+    overflow: hidden;
+    text-align: right;
+    text-decoration: underline;
+    width: 100px;
+}
+.listbox {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_lmnrbgt.gif") repeat-y scroll 0 0;
+    clear: both;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 987px;
+}
+.listbottom {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_bg.png") no-repeat scroll 0 -550px;
+    clear: both;
+    height: 15px;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 987px;
+}
+.hospital {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_endlm.jpg") no-repeat scroll left top;
+    clear: both;
+    height: 42px;
+    margin: 15px auto 0;
+    overflow: hidden;
+    width: 962px;
+}
+.hospital p {
+    color: #035b9e;
+    display: inline;
+    float: left;
+    font-family: 微软雅黑;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 42px;
+    margin-left: 20px;
+    overflow: hidden;
+    text-align: left;
+    width: 424px;
+}
+.hospital label {
+    color: #565656;
+    float: right;
+    font-family: 微软雅黑;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 42px;
+    margin-right: 20px;
+    overflow: hidden;
+}
+.hospital strong {
+    color: #035b9e;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.notes {
+    background: #e9f6fd url("http://images.guahao114.com/images/v2_zyts.gif") no-repeat scroll left top;
+    clear: both;
+    font-family: 微软雅黑;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+    margin: 0 auto;
+    overflow: hidden;
+    text-align: left;
+    width: 962px;
+}
+.notes p {
+    color: #f80219;
+    float: right;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 35px;
+    margin: 0 25px 0 0;
+    overflow: hidden;
+    text-align: left;
+    width: 820px;
+}
+.notes span {
+    float: right;
+    line-height: 22px;
+    margin: 0 25px 20px 0;
+    overflow: hidden;
+    width: 820px;
+}
+.notes_gh {
+    background: #e9f6fd url("http://images.guahao114.com/images/v2_zyts.gif") no-repeat scroll left top;
+    clear: both;
+    font-family: 微软雅黑;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+    margin: 0 auto;
+    overflow: hidden;
+    text-align: left;
+    width: 962px;
+}
+.notes_ght {
+    color: #f80219;
+    float: right;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 35px;
+    margin: 0 25px 0 0;
+    overflow: hidden;
+    text-align: left;
+    width: 800px;
+}
+.notes_ghn {
+    float: right;
+    line-height: 22px;
+    margin: 0 25px 20px 0;
+    overflow: hidden;
+    width: 800px;
+}
+.notes_tishi {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_endtishi.gif") no-repeat scroll left top;
+    color: #f80219;
+    float: right;
+    font-family: 微软雅黑;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    height: 53px;
+    line-height: 53px;
+    margin: 0 -10px 20px 0;
+    overflow: hidden;
+    text-align: left;
+    text-indent: 3em;
+    width: 800px;
+}*/
+.tabletitle {
+    float: left;
+    height: 31px;
+    margin: 0 15px;
+    overflow: hidden;
+    width: 920px;
+}
+.tabletitle strong {
+    color: #035b9e;
+    float: left;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 31px;
+    overflow: hidden;
+    text-align: left;
+}
+.tabletitle span {
+    float: right;
+    margin-top: 2px;
+    overflow: hidden;
+}
+.tabletitle p {
+    color: #adacac;
+    float: left;
+    font-family: 微软雅黑;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 31px;
+    overflow: hidden;
+    text-align: left;
+}
+.detail {
+    clear: both;
+    margin: 10px auto;
+    overflow: hidden;
+    width: 962px;
+}
+.detailtext {
+    background: #ffffff none repeat scroll 0 0;
+    height: 79px;
+    width: 117px;
+}
+.detailtext p {
+    color: #565656;
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    height: 25px;
+    line-height: 25px;
+    margin-left: 15px;
+    overflow: hidden;
+    text-align: left;
+    width: 100px;
+}
+.detailtext span {
+    color: #ffffff;
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    height: 25px;
+    line-height: 25px;
+    margin-top: 25px;
+    overflow: hidden;
+    text-align: right;
+    width: 100px;
+}
+.detailtext b {
+    color: #dbd8d8;
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    height: 25px;
+    line-height: 25px;
+    margin-left: 15px;
+    overflow: hidden;
+    text-align: left;
+    width: 100px;
+}
+.greenbg {
+    background: rgba(0, 0, 0, 0) url("/images/v2_yybg.gif") no-repeat scroll left top;
+    height: 79px;
+    width: 117px;
+}
+.greenbg a {
+    display: block;
+    height: 79px;
+    text-decoration: none;
+    width: 117px;
+}
+.greenbg a:hover {
+    background: rgba(0, 0, 0, 0) url("/images/v2_yybg1.gif") no-repeat scroll left top;
+    text-decoration: none;
+}
+.orgbg {
+    background: rgba(0, 0, 0, 0) url("/images/v2_ymbg.gif") no-repeat scroll left top;
+    height: 79px;
+    width: 117px;
+}
+.orgbg a {
+    display: block;
+    height: 79px;
+    text-decoration: none;
+    width: 117px;
+}
+.orgbg a:hover {
+    background: rgba(0, 0, 0, 0) url("/images/v2_ymbg1.gif") no-repeat scroll left top;
+    text-decoration: none;
+}
+.detailbt {
+    background: #e9f6fd url("http://images.guahao114.com/images/v2_data.gif") no-repeat scroll left top;
+    width: 131px;
+}
+.datatext {
+    background: #ffffff none repeat scroll 0 0;
+    line-height: 36px;
+    text-align: center;
+    width: 117px;
+}
+.datatextb {
+    background: #ffffff none repeat scroll 0 0;
+    font-weight: bold;
+    line-height: 36px;
+    text-align: center;
+    width: 117px;
+}
+.red1 {
+    color: #fa4a00;
+}
+.green1 {
+    color: #34c004;
+}
+.nyr {
+    clear: both;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 100%;
+}
+.nyr_up {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_pageup01.gif") no-repeat scroll center top;
+    display: block;
+    height: 50px;
+    width: 100%;
+}
+.nyr_up a {
+    display: block;
+    height: 50px;
+    text-decoration: none;
+    width: 100%;
+}
+.nyr_up a:hover {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_pageup02.gif") no-repeat scroll center top;
+}
+.nyr_center {
+    color: #035b9e;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 30px;
+    text-align: center;
+}
+.nyr_down {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_pagedown01.gif") no-repeat scroll center bottom;
+    display: block;
+    height: 50px;
+    width: 100%;
+}
+.nyr_down a {
+    display: block;
+    height: 50px;
+    text-decoration: none;
+    width: 100%;
+}
+.nyr_down a:hover {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_pagedown02.gif") no-repeat scroll center top;
+}
+/*.tjtitle {
+    border-bottom: 1px solid #4daae3;
+    clear: both;
+    height: 30px;
+    margin-left: 12px;
+    overflow: hidden;
+    width: 962px;
+}
+.tjtitle p {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: #e9f6fd none repeat scroll 0 0;
+    border-color: #4daae3 #4daae3 -moz-use-text-color;
+    border-image: none;
+    border-style: solid solid none;
+    border-width: 1px 1px 0;
+    color: #035b9e;
+    float: left;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bold;
+    height: 28px;
+    line-height: 28px;
+    margin-left: 40px;
+    overflow: hidden;
+    text-align: center;
+    width: 170px;
+}
+.tjtitle p a {
+    color: #035b9e;
+}
+.tj_content {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_tjbg.gif") repeat scroll left top;
+    clear: both;
+    margin: 10px auto;
+    overflow: hidden;
+    width: 962px;
+}
+.tj_content ul {
+    margin: 0 10px;
+}
+.tj_content li {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_icon2.gif") no-repeat scroll left center;
+    color: #565656;
+    float: left;
+    font-family: 微软雅黑;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+    height: 26px;
+    line-height: 26px;
+    overflow: hidden;
+    padding: 0 0 0 9px;
+    text-align: left;
+    width: 450px;
+}
+.tj_content li a:link {
+    color: #565656;
+}
+.tj_content li a:visited {
+    color: #565656;
+}
+.tj_content li a:hover {
+    color: #c00;
+    text-decoration: underline;
+}
+.artbox {
+    clear: both;
+    margin: 20px auto;
+    overflow: hidden;
+    width: 900px;
+}
+.info {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/erj/lm_line.gif") no-repeat scroll left bottom;
+    color: #000;
+    font-family: Verdana,宋体;
+    padding-bottom: 15px;
+    text-align: center;
+    width: 900px;
+}
+h1 {
+    color: #565656;
+    font-family: 微软雅黑;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 8px 0;
+    text-align: center;
+    width: 900px;
+}
+.article {
+    color: #565656 !important;
+    float: left;
+    font-family: Verdana,微软雅黑;
+    font-size: 14px;
+    line-height: 28px;
+    min-height: 500px;
+    text-align: left;
+    width: 100%;
+}
+.gg_title {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_endlm.jpg") no-repeat scroll left top;
+    clear: both;
+    height: 42px;
+    margin: 15px auto 0;
+    overflow: hidden;
+    width: 962px;
+}
+.gg_title p {
+    color: #035b9e;
+    display: inline;
+    float: left;
+    font-family: 微软雅黑;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 42px;
+    margin-left: 20px;
+    overflow: hidden;
+    text-align: left;
+    width: 800px;
+}
+.gg_title label {
+    color: #565656;
+    float: right;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 42px;
+    margin-right: 20px;
+    overflow: hidden;
+}
+.gg_artbox {
+    clear: both;
+    margin: 40px auto;
+    overflow: hidden;
+    width: 860px;
+}
+.gg_page {
+    color: #565656;
+    float: left;
+    font-size: 14px;
+    line-height: 25px;
+    margin: 10px 10px 0;
+    overflow: hidden;
+    text-align: right;
+    width: 100%;
+}
+.zxgg_content {
+    clear: both;
+    margin: 20px auto;
+    overflow: hidden;
+    width: 860px;
+}
+.zxgg_content dl {
+    border-bottom: 1px solid #dee7f1;
+    clear: both;
+    color: #565656;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    height: 32px;
+    line-height: 32px;
+    text-align: left;
+}
+.zxgg_content dd {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_icon11.gif") no-repeat scroll left center;
+    float: left;
+    margin-left: 15px;
+    overflow: hidden;
+    padding: 0 0 0 9px;
+    text-align: left;
+}
+.zxgg_content dt {
+    color: #565656;
+    float: right;
+    font-size: 13px;
+    overflow: hidden;
+    text-align: center;
+    width: 180px;
+}
+.guahao {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_ghbg02521.gif") no-repeat scroll left top;
+    clear: both;
+    height: 320px;
+    margin: 50px auto 0;
+    overflow: hidden;
+    width: 749px;
+}
+.guahaol {
+    color: #565656;
+    float: left;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 25px;
+    margin: 30px;
+    overflow: hidden;
+    text-align: left;
+    width: 380px;
+}
+.guahaor {
+    color: #565656;
+    float: right;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 25px;
+    margin: 15px 30px 15px 0;
+    overflow: hidden;
+    text-align: left;
+    width: 260px;
+}
+.ghinput {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #abadb3 #e3e9ef #e3e9ef;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px;
+    height: 17px;
+}
+#baoxiao {
+    height: 21px;
+    width: 143px;
+}
+.guahaotj {
+    clear: both;
+    margin: 20px auto;
+    overflow: hidden;
+    width: 749px;
+}
+.helpbox {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_helpbg.gif") repeat-y scroll left top;
+    clear: both;
+    margin: 10px auto;
+    overflow: hidden;
+    width: 960px;
+}
+.helpl {
+    float: left;
+    overflow: hidden;
+    width: 198px;
+}
+.helpr {
+    float: right;
+    overflow: hidden;
+    width: 750px;
+}
+.helptitle {
+    border-bottom: 1px solid #4daae3;
+    float: left;
+    height: 30px;
+    overflow: hidden;
+    width: 750px;
+}
+.helptitle p {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: #e9f6fd none repeat scroll 0 0;
+    border-color: #4daae3 #4daae3 -moz-use-text-color;
+    border-image: none;
+    border-style: solid solid none;
+    border-width: 1px 1px 0;
+    color: #035b9e;
+    float: left;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bold;
+    height: 28px;
+    line-height: 28px;
+    margin-left: 30px;
+    overflow: hidden;
+    text-align: center;
+    width: 150px;
+}
+.helptitle p a {
+    color: #035b9e;
+}
+.helptext {
+    color: #565656;
+    float: left;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 28px;
+    margin: 20px 0;
+    overflow: hidden;
+    text-align: left;
+    width: 750px;
+}
+.helpmenu {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/v2_icon8.gif") no-repeat scroll left center;
+    clear: both;
+    color: #035b9e;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 28px;
+    margin: 10px auto;
+    overflow: hidden;
+    padding: 0 0 0 14px;
+    text-align: left;
+    width: 175px;
+}
+.helpmenu a:link {
+    color: #035b9e;
+}
+.helpmenu a:visited {
+    color: #035b9e;
+}
+.helpmenu a:hover {
+    color: #c00;
+    text-decoration: underline;
+}
+.helplist {
+    clear: both;
+    margin: 0 20px;
+    overflow: hidden;
+    width: 156px;
+}
+.helplist ul {
+    margin: 0;
+}
+.helplist li {
+    border-bottom: 1px solid #fff;
+    clear: both;
+    color: #035b9e;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    height: 28px;
+    line-height: 28px;
+    list-style-type: none;
+    padding: 0 0 0 20px;
+    text-align: left;
+}
+.helplist li a:link {
+    color: #035b9e;
+}
+.helplist li a:visited {
+    color: #035b9e;
+}
+.helplist li a:hover {
+    color: #c00;
+    text-decoration: underline;
+}
+.contentRight {
+    display: inline-block;
+    float: left;
+    width: 100%;
+}
+#helpCent .contentRight dl dt {
+    border-bottom: 1px dashed rgb(218, 218, 218);
+    color: rgb(88, 157, 196);
+    font-size: 14px;
+    text-align: left;
+}
+#helpCent .contentRight dt a {
+    display: block;
+    padding: 15px 0 10px 10px;
+}
+#helpCent .contentRight dd img {
+    width: 577px;
+}
+#helpCent .contentRight dt a:hover {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/h1-bg.png") repeat-x scroll center bottom;
+    text-decoration: none;
+}
+.ahover {
+    background: rgba(0, 0, 0, 0) url("http://images.guahao114.com/images/h1-bg.png") repeat-x scroll center bottom;
+}
+#helpCent .contentRight dl dd {
+    color: rgb(138, 138, 138);
+    display: none;
+    font-size: 14px;
+    line-height: 25px;
+    margin-bottom: 2px;
+    padding: 10px 10px 10px 20px;
+    text-align: left;
+}
+#helpCent .contentRight {
+    display: block;
+    float: left;
+    width: 100%;
+}
+#helpCent .rightCenter {
+    padding: 0 20px 30px;
+}
+    */

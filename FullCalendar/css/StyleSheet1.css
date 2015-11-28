@@ -1,0 +1,162 @@
+﻿.lmdg{width:940px;clear:both;height:33px;margin:0px auto;overflow:hidden;text-align:left;background:url(http://images.guahao114.com/images/v2_bg.png) no-repeat 0px -382px;padding:0 0 0 25px;color:#565656;line-height:33px;font-size:13px;}
+.lmdg a{color:#035B9E;font-size:13px;}
+
+
+.listtop{width:987px;clear:both;overflow:hidden;margin:0px auto;height:36px;background:url(http://images.guahao114.com/images/v2_bg.png) no-repeat 0px -281px;}
+.listtop span{float:left;overflow:hidden;width:530px;margin-left:40px; display:inline;}
+.listtop span ul{margin:0px}
+.listtop span li{float:left;overflow:hidden;width:106px;line-height:36px;text-align:center;font-family:微软雅黑;font-size:14px;font-weight:bold;font-style:normal;}
+.bg03,.bg03:link,.bg03:visited,.bg03:hover{display:block;cursor:hand;background:url(http://images.guahao114.com/images/v2_lmtblue.gif) no-repeat center top;text-align:center;height:36px;width:106px;color:#FFF;text-decoration:none}
+.bg04,.bg04:link,.bg04:visited,.bg04:hover{display:block;cursor:hand;height:36px;width:106px;color:#035B9E;text-decoration:none}
+.listtop label{float:right;width:230px;overflow:hidden;margin-right:15px;font-family:微软雅黑;font-size:13px;font-weight:normal;font-style:normal;color:#035B9E;line-height:36px;}
+.org1,.org1:link,.org1:visited{float:left;overflow:hidden;color:#FA4A00;width:100px;background:url(http://images.guahao114.com/images/v2_icon.gif) no-repeat left center;display:block;height:36px;text-align:right;}
+.org1:hover{float:left;overflow:hidden;color:#FA4A00;width:100px;text-decoration:underline;background:url(http://images.guahao114.com/images/v2_icon.gif) no-repeat left center;display:block;height:36px;text-align:right;}
+.listbox{width:987px;clear:both;overflow:hidden;height:0px auto;margin:0px auto;background:url(http://images.guahao114.com/images/v2_lmnrbgt.gif) repeat-y 0 0;}
+.listbottom{width:987px;clear:both;overflow:hidden;margin:0px auto;height:15px;background:url(http://images.guahao114.com/images/v2_bg.png) no-repeat 0px -550px;}
+
+.hospital{width:962px;clear:both;height:42px;margin:15px auto;margin-bottom:0px;overflow:hidden;background:url(http://images.guahao114.com/images/v2_endlm.jpg) no-repeat left top;}
+.hospital p{float:left;overflow:hidden;width:424px;margin-left:20px; display:inline;font-family:微软雅黑;font-size:20px;font-weight:bold;font-style:bold;color:#035B9E;text-align:left;line-height:42px;}
+.hospital label{float:right;overflow:hidden;margin-right:20px;font-family:微软雅黑;font-size:13px;font-weight:normal;font-style:normal;color:#565656;line-height:42px;}
+.hospital strong{font-weight:bold;color:#035B9E;margin-left:20px;}
+.notes{width:962px;clear:both;height:0px auto;margin:0px auto;overflow:hidden;background:url(http://images.guahao114.com/images/v2_zyts.gif) no-repeat left top;background-color:#E9F6FD;text-align:left;font-family:微软雅黑;font-size:13px;font-weight:normal;font-style:normal;}
+.notes p{float:right;overflow:hidden;width:820px;margin:0px 25px 0px 0px;line-height:22px;font-size:15px;font-weight:bold;font-style:normal;color:#F80219;line-height:35px;text-align:left;}
+.notes span{float:right;overflow:hidden;width:820px;margin:0px 25px 20px 0px;line-height:22px;}
+
+.notes_gh{width:962px;clear:both;height:0px auto;margin:0px auto;overflow:hidden;background:url(http://images.guahao114.com/images/v2_zyts.gif) no-repeat left top;background-color:#E9F6FD;text-align:left;font-family:微软雅黑;font-size:13px;font-weight:normal;font-style:normal;}
+.notes_ght{float:right;overflow:hidden;width:800px;margin:0px 25px 0px 0px;line-height:22px;font-size:15px;font-weight:bold;font-style:normal;color:#F80219;line-height:35px;text-align:left;}
+.notes_ghn{float:right;overflow:hidden;width:800px;margin:0px 25px 20px 0px;line-height:22px;}
+.notes_tishi{float:right;overflow:hidden;width:800px;margin:0px -10px 20px 0px;background:url(http://images.guahao114.com/images/v2_endtishi.gif) no-repeat left top;height:53px;line-height:53px;font-size:16px;color:#F80219;font-family:微软雅黑;font-weight:normal;font-style:normal;text-align:left;text-indent:3em;}
+
+
+.tabletitle{float:left;overflow:hidden;width:920px;height:31px;margin:0px 15px;_margin:0px 8px;}
+.tabletitle strong{float:left;overflow:hidden;font-family:微软雅黑;font-size:14px;font-weight:bold;font-style:bold;color:#035B9E;text-align:left;line-height:31px;}
+.tabletitle span{float:right;overflow:hidden;margin-top:2px;}
+.tabletitle p{float:left;overflow:hidden;font-family:微软雅黑;font-size:13px;font-weight:normal;font-style:normal;color:#ADACAC;text-align:left;line-height:31px;}
+.detail{width:962px;clear:both;height:0px auto;margin:10px auto;overflow:hidden;}
+
+.detailtext{width:117px;height:79px;background:#FFFFFF;}
+.detailtext p{float:left;overflow:hidden;width:100px;height:25px;margin-left:15px;_margin-left:0px;_padding-left:5px;line-height:25px;font-size:14px;color:#565656;text-align:left;font-weight:bold;}
+.detailtext span{float:left;overflow:hidden;width:100px;height:25px;margin-top:25px;line-height:25px;font-size:14px;color:#FFFFFF;text-align:right;font-weight:bold;}
+.detailtext b{float:left;overflow:hidden;width:100px;height:25px;margin-left:15px;line-height:25px;font-size:14px;color:#DBD8D8;text-align:left;font-weight:bold;}
+.greenbg{width:117px;height:79px;background:url(http://images.guahao114.com/images/v2_yybg.gif) no-repeat left top;}
+.greenbg a{display:block;cursor:hand;width:117px;height:79px;text-decoration:none;}
+.greenbg a:hover{background:url(http://images.guahao114.com/images/v2_yybg1.gif) no-repeat left top;text-decoration:none;}
+.orgbg{width:117px;height:79px;background:url(http://images.guahao114.com/images/v2_ymbg.gif) no-repeat left top;}
+.orgbg a{display:block;cursor:hand;width:117px;height:79px;text-decoration:none;}
+.orgbg a:hover{background:url(http://images.guahao114.com/images/v2_ymbg1.gif) no-repeat left top;text-decoration:none;}
+.detailbt{width:131px;background:url(http://images.guahao114.com/images/v2_data.gif) no-repeat left top;background-color:#E9F6FD;}
+.datatext{line-height:36px;background:#FFFFFF;width:117px;text-align:center;}
+.datatextb{line-height:36px;background:#FFFFFF;width:117px;text-align:center;font-weight:bold;}
+.red1{color:#FA4A00;}
+.green1{color:#34C004;}
+
+.nyr{clear:both;overflow:hidden;width:100%;margin:0px auto;}
+.nyr_up{background:url(http://images.guahao114.com/images/v2_pageup01.gif) no-repeat center top;display:block;height:50px;width:100%;}
+.nyr_up a{display:block;height:50px;width:100%;cursor:hand;text-decoration:none;}
+.nyr_up a:hover{background:url(http://images.guahao114.com/images/v2_pageup02.gif) no-repeat center top;}
+
+.nyr_center{color:#035B9E;font-size:14px;font-family:微软雅黑;font-weight:bold;font-style:normal;line-height:30px;text-align:center;}
+
+.nyr_down{background:url(http://images.guahao114.com/images/v2_pagedown01.gif) no-repeat center bottom;display:block;height:50px;width:100%;}
+.nyr_down a{display:block;height:50px;width:100%;cursor:hand;text-decoration:none;}
+.nyr_down a:hover{background:url(http://images.guahao114.com/images/v2_pagedown02.gif) no-repeat center top;}
+
+
+.tjtitle{width:962px;clear:both;overflow:hidden; height:30px;border-bottom:1px #4DAAE3 solid;margin-left:12px;}
+.tjtitle p{float:left;overflow:hidden;width:170px;height:28px;border:1px #4DAAE3 solid;border-bottom:0px;margin-left:40px;text-align:center;line-height:28px;font-family:微软雅黑;font-size:14px;font-weight:bold;font-style:normal;color:#035B9E;background:#E9F6FD; }
+.tjtitle p a{color:#035B9E;}
+.tj_content{width:962px;clear:both;height:0px auto;margin:10px auto;overflow:hidden;background:url(http://images.guahao114.com/images/v2_tjbg.gif) repeat left top;}
+.tj_content ul{margin:0px 10px;}
+.tj_content li{float:left;overflow:hidden;width:450px;color:#565656;font-family:微软雅黑;font-size:13px;font-weight:normal;font-style:normal;line-height:26px;height:26px;text-align:left;background:url(http://images.guahao114.com/images/v2_icon2.gif) left center no-repeat;padding:0 0 0 9px;}
+.tj_content li a:link{color:#565656;}
+.tj_content li a:visited{color:#565656;}
+.tj_content li a:hover{color:#c00;text-decoration:underline;}
+
+
+
+.artbox{width:900px;clear:both;height:0px auto;margin:20px auto;overflow:hidden;}
+
+.info{width:900px;font-family:Verdana,宋体;color:#000;background:url(http://images.guahao114.com/images/erj/lm_line.gif) no-repeat left bottom;padding-bottom:15px;text-align:center;}
+h1{width:900px;color:#565656;font-family:微软雅黑;font-size:22px;margin:8px 0; font-weight:bold;text-align:center;}
+.article{float:left;
+	width:100%;	
+    font-family:Verdana,微软雅黑;
+	font-size:14px;
+	line-height:28px;
+	text-align:left;
+    min-height:500px;*+height:100%;_height:500px;
+	color:#565656!important;
+	table-layput:fixed;
+	}
+	
+.gg_title{width:962px;clear:both;height:42px;margin:15px auto;margin-bottom:0px;overflow:hidden;background:url(http://images.guahao114.com/images/v2_endlm.jpg) no-repeat left top;}
+.gg_title p{float:left;overflow:hidden;width:800px;margin-left:20px; display:inline;font-family:微软雅黑;font-size:18px;font-weight:bold;font-style:bold;color:#035B9E;text-align:left;line-height:42px;}
+.gg_title label{float:right;overflow:hidden;margin-right:20px;font-family:微软雅黑;font-size:14px;font-weight:normal;font-style:normal;color:#565656;line-height:42px;}
+.gg_artbox{width:860px;clear:both;height:0px auto;margin:40px auto;overflow:hidden;}
+
+.gg_page{float:left;overflow:hidden;width:100%;margin:10px 10px 0px 10px;text-align:right;font-size:14px;line-height:25px;color:#565656;}
+.zxgg_content{clear:both;width:860px;height:0px auto;margin:20px auto;overflow:hidden;}
+.zxgg_content dl{clear:both;line-height:32px;height:32px;font-family:微软雅黑;font-size:14px;font-weight:normal;font-style:normal;color:#565656;text-align:left;border-bottom:1px #DEE7F1 solid;}
+
+.zxgg_content dd{float:left;overflow:hidden;text-align:left;background:url(http://images.guahao114.com/images/v2_icon11.gif) left center no-repeat;padding:0 0 0 9px;margin-left:15px;}
+.zxgg_content dt{float:right;overflow:hidden;width:180px;font-size:13px;color:#565656;text-align:center;}
+
+.guahao{clear:both;width:749px;height:0px auto;margin:50px auto;margin-bottom:0px;overflow:hidden;background:url(http://images.guahao114.com/images/v2_ghbg02521.gif) no-repeat left top;height:320px;}
+.guahaol{float:left;overflow:hidden;width:380px;margin:30px 30px;_margin:30px 15px;line-height:25px;font-size:14px;font-family:微软雅黑;font-weight:normal;font-style:normal;color:#565656;text-align:left;}
+.guahaor{float:right;overflow:hidden;width:260px;margin:15px 30px 15px 0px;_margin:15px 30px 7px 0px;line-height:25px;font-size:14px;font-family:微软雅黑;font-weight:normal;font-style:normal;color:#565656;text-align:left;}
+.ghinput{widht:145px;height:17px;border:1px #E3E9EF solid;border-top:1px #ABADB3 solid;}
+#baoxiao{width:143px;height:21px;}
+.guahaotj{clear:both;width:749px;height:0px auto;margin:20px auto;overflow:hidden;}
+
+.helpbox{clear:both;width:960px;height:0px auto;margin:10px auto;overflow:hidden;background:url(http://images.guahao114.com/images/v2_helpbg.gif) repeat-y left top;}
+.helpl{float:left;overflow:hidden;width:198px;}
+.helpr{float:right;overflow:hidden;width:750px;}
+.helptitle{width:750px;float:left;overflow:hidden;height:30px;border-bottom:1px #4DAAE3 solid;}
+.helptitle p{float:left;overflow:hidden;width:150px;height:28px;border:1px #4DAAE3 solid;border-bottom:0px;margin-left:30px;text-align:center;line-height:28px;font-family:微软雅黑;font-size:14px;font-weight:bold;font-style:normal;color:#035B9E;background:#E9F6FD; }
+.helptitle p a{color:#035B9E;}
+.helptext{width:750px;float:left;overflow:hidden;line-height:28px;font-family:微软雅黑;font-size:14px;font-weight:normal;font-style:normal;color:#565656;text-align:left;margin:20px 0;}
+.helpmenu{clear:both;width:175px;height:0px auto;margin:10px auto;overflow:hidden;background:url(http://images.guahao114.com/images/v2_icon8.gif) no-repeat left center;padding:0 0 0 14px;line-height:28px;font-family:微软雅黑;font-size:14px;font-weight:bold;font-style:normal;color:#035B9E;text-align:left;}
+.helpmenu a:link{color:#035B9E;}
+.helpmenu a:visited{color:#035B9E;}
+.helpmenu a:hover{color:#c00;text-decoration:underline;}
+
+.helplist{clear:both;width:156px;height:0px auto;margin:0px 20px;overflow:hidden;}
+.helplist ul{margin:0px;}
+.helplist li{clear:both;list-style-type:none;line-height:28px;height:28px;font-family:微软雅黑;font-size:14px;font-weight:normal;font-style:normal;color:#035B9E;text-align:left;padding:0 0 0 20px;border-bottom:1px #FFF solid;}
+.helplist li a:link{color:#035B9E;}
+.helplist li a:visited{color:#035B9E;}
+.helplist li a:hover{color:#c00;text-decoration:underline;}
+
+
+ .contentRight {
+	width: 100%; float:left; display: inline-block;
+}
+#helpCent .contentRight dl dt {color: rgb(88, 157, 196); font-size: 14px; border-bottom-color: rgb(218, 218, 218); border-bottom-width: 1px; border-bottom-style: dashed;text-align:left;
+}
+#helpCent .contentRight dt a {
+	padding: 15px 0px 10px 10px; display: block;
+
+}
+#helpCent .contentRight dd img {
+	width: 577px;
+}
+#helpCent .contentRight dt a:hover {
+	background: url("http://images.guahao114.com/images/h1-bg.png") repeat-x bottom; text-decoration: none;
+}
+.ahover {
+	background: url("http://images.guahao114.com/images/h1-bg.png") repeat-x bottom;
+}
+#helpCent .contentRight dl dd {
+	padding: 10px 10px 10px 20px; color: rgb(138, 138, 138); line-height: 25px; margin-bottom: 2px; display: none; font-size: 14px;text-align:left;
+}
+
+#helpCent .contentRight {
+	width:100%; float: left; display: block;
+}
+
+
+
+#helpCent .rightCenter {
+	padding: 0px 20px 30px;
+}
+
